@@ -1,0 +1,8 @@
+AuthType Basic
+AuthName "Protected IPTV Playlist"
+AuthUserFile /home/USERNAME/.htpasswd
+Require valid-user
+
+<Files "bg.m3u">
+    Require valid-user
+</Files>

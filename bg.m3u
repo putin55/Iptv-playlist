@@ -381,6 +381,38 @@ https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8
 #EXTINF:-1 group-title="Научно популярни",CI Network
 http://213.169.39.30:5098
 🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀🍀
+#EXTINF:-1 group-title="КИНО Мания" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Info_icon_002.svg/512px-Info_icon_002.svg.png", 📌 25.11 добавени НОВИ филми 
+http://0.0.0.0
+#EXTINF:-1 tvg-id="" tvg-name="BG| Dominus" tvg-logo="http://wtv.la:900/images/rtPllBINU0ZTutISzfAJ5jhtDao_big.jpg" group-title="КИНО Мания", Dominus
+http://iptv365.xyz:80/movie/3387931270/7993789435/401789465.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| Black Phone 2" tvg-logo="http://wtv.la:900/images/evbguUd1BwExQgXMjG9n9AHMQpN_big.jpg" group-title="КИНО Мания"  ,Black Phone 2
+http://iptv365.xyz:80/movie/3387931270/7993789435/401789464.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| Param Sundari" tvg-logo="http://wtv.la:900/images/uLPUsH3Fwe6mAU7n6WpMSDLdYCm_big.jpg" group-title=" КИНО Мания" ,Param Sundari
+http://iptv365.xyz:80/movie/3387931270/7993789435/401788463.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| Your Host" tvg-logo="http://wtv.la:900/images/sz0ff2j1bZOLM9HT9LjkcewZBYR_big.jpg" group-title=" КИНО Мания", Your Host
+http://iptv365.xyz:80/movie/3387931270/7993789435/401788462.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| The Wildman of Shaggy Creek" tvg-logo="http://wtv.la:900/images/A4UTvIqVp2XKtqy0P2fTDFo1wnc_big.jpg" group-title=" КИНО Мания",The Wildman of Shaggy Creek
+http://iptv365.xyz:80/movie/3387931270/7993789435/401788461.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| The Twits" tvg-logo="http://wtv.la:900/images/izYZGeOHhPWiga8Hb5P4JYfcH8T_big.jpg" group-title=" КИНО Мания" ,The Twits
+http://iptv365.xyz:80/movie/3387931270/7993789435/401788460.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| The Roses" tvg-logo="http://wtv.la:900/images/98n5HnCJ5LnXKIMNP9SBfVNyxCE_big.jpg" group-title="КИНО Мания",The Roses
+http://iptv365.xyz:80/movie/3387931270/7993789435/401788459.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| The Mannequin" tvg-logo="http://wtv.la:900/images/oFTpB1gzS02LtrsenTWxOKbsMpM_big.jpg" group-title="КИНО Мания " ,The Mannequin
+http://iptv365.xyz:80/movie/3387931270/7993789435/401788458.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| The Long Walk" tvg-logo="http://wtv.la:900/images/wobVTa99eW0ht6c1rNNzLkazPtR_big.jpg" group-title="КИНО Мания ", The Long Walk
+http://iptv365.xyz:80/movie/3387931270/7993789435/401788457.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| The Jester 2" tvg-logo="http://wtv.la:900/images/giV7FS7HGyxRbwqxudXPvv1RgXD_big.jpg" group-title=" КИНО Мания" ,The Jester 2
+http://iptv365.xyz:80/movie/3387931270/7993789435/401788456.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| The Healing" tvg-logo="http://wtv.la:900/images/eZzkf0eIKqUNmGOrSGQ6bqeMVQw_big.jpg" group-title="КИНО Мания ", The Healing
+http://iptv365.xyz:80/movie/3387931270/7993789435/401788455.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| She Walks in Darkness" tvg-logo="http://wtv.la:900/images/lR7TH2IlUJWh92HuiYrlb8rNuCp_big.jpg" group-title="КИНО Мания ", She Walks in Darkness
+http://iptv365.xyz:80/movie/3387931270/7993789435/401788454.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| Relentless Fury" tvg-logo="http://wtv.la:900/images/lkdY5ueCgJIkWAplJycowYcDVE1_big.jpg" group-title="КИНО Мания ", Relentless Fury
+http://iptv365.xyz:80/movie/3387931270/7993789435/401788453.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| Other" tvg-logo="http://wtv.la:900/images/DnML8srxVUNndSvlHoCrxxu5dQ_big.jpg" group-title=" КИНО Мания",Other
+http://iptv365.xyz:80/movie/3387931270/7993789435/401788452.mp4
+#EXTINF:-1 tvg-id="" tvg-name="BG| Inside Furioza" tvg-logo="http://wtv.la:900/images/dbe1zKVKNBIczdmRcm7jxEphYLz_big.jpg" group-title=" КИНО Мания", Inside Furioza
+http://iptv365.xyz:80/movie/3387931270/7993789435/401788451.mp4
 #EXTINF:-1 group-title="КИНО Мания" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Info_icon_002.svg/512px-Info_icon_002.svg.png", 📌 18.11 добавени НОВИ филми 
 http://0.0.0.0
 #EXTINF:-1 tvg-id="" tvg-name="BG| Good Boy" tvg-logo="http://wtv.la:900/images/pvMHRi09ur2L1drXh2dXFtuMFgl_big.jpg" group-title="КИНО Мания",BG| Good Boy

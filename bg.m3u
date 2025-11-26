@@ -18,7 +18,8 @@ https://shift03.isp.bg/BNT4_HD/index.m3u8
 https://shift03.isp.bg/bTV_HD/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BG | Nova TV" tvg-logo="https://eveimg.xyz/picons/bg/novatv.png" group-title="Национални" ,Nova TV FHD
 https://shift03.isp.bg/Nova_HD/index.m3u8
-#EXTINF:-1 group-title="Национални"  ,Nova NEWS HD
+#EXTINF:-1 tvg-id="novanews.bg" tvg-name="BG| NOVA NEWS HD" tvg-logo="https://lo1.in/bulg/nvn.png" group-title="Национални",NOVA NEWS HD
+http://iptv365.xyz:80/live/3387931270/7993789435/381514.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BG |Euronews " tvg-logo https://i.postimg.cc/L671gQGx/1763637232553.jpg" group-title="Национални" ,Euronews Bulgaria
